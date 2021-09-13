@@ -25,13 +25,13 @@
 ### 📫 How to reach me
 - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, you can send a message anyway. Here is where you can find me: 
 
-<a href=mailto:stoghiani@gmail.com>
+<a href="mailto:stoghiani@gmail.com">
   <img
     alt="Gmail"
     src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href=mailto:sajjad.toghiani@usda.gov>
+<a href="mailto:sajjad.toghiani@usda.gov">
   <img
     alt="Microsoft Outlook"
     src="https://img.shields.io/badge/Outlook-0078D4?logo=Microsoft Outlook&logoColor=white&style=for-the-badge"
