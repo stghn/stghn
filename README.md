@@ -1,7 +1,6 @@
-<img src="/USDA-ARS.jpg" alt="banner" align="center" />
 
+##  👋 Hi there and welcome to my GitHub page
 
-### Hi there 👋
 
 <!--
 **stghn/stghn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
