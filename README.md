@@ -5,8 +5,8 @@
 <div style="text-align: justify"> I am a <b>Quantitative Geneticist</b> working as a support scientist for <b>USDA-ARS in Animal Genomics and Improvement Laboratory</b> and have experience to implement the genetic and genomic approaches to optimize the productivity and sustainability of dairy cattle. </div> <br/>
 
 
--  I’m currently working on **Feed Efficiency project for dairy cows** nationally and internationally. 🐄 📝 🧬
----
+- 🐄 🧬 I’m currently working on **Feed Efficiency project for dairy cows** nationally and internationally.
+- 📝 My Online CV: https://stghn.github.io/
 
 ### 💻 Languages and Tools
 <p>
