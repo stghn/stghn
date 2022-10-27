@@ -1,11 +1,9 @@
 
-##  👋 Hi there and welcome to my GitHub page
+##  🐄 🧬 👋 Hi there and welcome to my GitHub page
 ### About Me <a href="https://orcid.org/0000-0002-5090-728X"> <img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white&style=?style=plastic&logo=appveyor" /> </a>  
   
-<div style="text-align: justify"> I am a <b>Quantitative Geneticist</b> working as a research scientist for <b>USDA-ARS in Animal Genomics and Improvement Laboratory</b> and have experience to implement the genetic and genomic approaches to optimize the productivity and sustainability of dairy cattle. </div> <br/>
+<div style="text-align: justify"> I'm currently working for USDA-ARS in Beltsville, MD as a <b>Research Geneticist</b> in <b>Animal Genomics and Improvement Laboratory (AGIL)</b>. My primary research goals include using cutting-edge genomic technology in animal breeding to develop decision-making tools and improved algorithms to enhance dairy health and welfare, environmental sustainability, climatic adaptability, and productivity. </div> <br/>
 
-
-- 🐄 🧬 I’m currently working on **Genetic and Genomic anaylsis of residual feed intake in US and International Holstien Dairy cattle**.
 - 📝 My Online CV: https://stghn.github.io/
 
 ### 💻 Languages and Tools
