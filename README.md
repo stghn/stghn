@@ -36,7 +36,7 @@
 <a href="mailto:sajjad.toghiani@usda.gov">
   <img
     alt="Microsoft Outlook"
-    src="https://img.shields.io/badge/Outlook-0078D4?logo=Microsoft Outlook&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Outlook-0078D4?logo=MicrosoftOutlook&logoColor=white&style=for-the-badge"
   />
 </a>
 <a href="https://www.linkedin.com/in/sajjad-toghiani-7bab9552/">
