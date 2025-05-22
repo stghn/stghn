@@ -1,8 +1,9 @@
 
-##  🐄 🧬 👋 Hi there and welcome to my GitHub page
+## 👋 Welcome to my GitHub page 🐄 🧬
 ### About Me <a href="https://orcid.org/0000-0002-5090-728X"> <img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?logo=ORCID&logoColor=white&style=?style=plastic&logo=appveyor" /> </a>  
   
-<div style="text-align: justify"> I'm currently working for USDA-ARS in Beltsville, MD as a <b>Research Geneticist</b> in <b>Animal Genomics and Improvement Laboratory (AGIL)</b>. My primary research goals include using cutting-edge genomic technology in animal breeding to develop decision-making tools and improved algorithms to enhance dairy health and welfare, environmental sustainability, climatic adaptability, and productivity. </div> <br/>
+<div style="text-align: justify"> I'm Sajjad Toghiani, a <b>Research Geneticist</b> at USDA-ARS <b>(Animal Genomics and Improvement Laboratory- AGIL)</b> in Beltsville, Maryland.
+  My work centers on leveraging cutting-edge genomic technology and advanced computational methods in animal breeding. I develop innovative decision-making tools and algorithms to enhance dairy health, welfare, environmental sustainability, climatic adaptability, and productivity. Explore my repositories to see how I'm contributing to a more sustainable future in animal agriculture.. </div> <br/>
 
 - 📝 My Online CV: https://stghn.github.io/
 
